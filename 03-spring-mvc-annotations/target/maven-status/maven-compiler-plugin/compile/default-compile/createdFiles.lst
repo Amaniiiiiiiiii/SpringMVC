@@ -1,0 +1,7 @@
+com\demo\configuration\MyWebInitializer.class
+com\demo\configuration\WebConfig.class
+com\demo\controller\MyServiceDao.class
+com\demo\controller\MyServiceDaoImpl.class
+com\demo\controller\MyController.class
+com\demo\controller\MyServiceImpl.class
+com\demo\controller\MyService.class
